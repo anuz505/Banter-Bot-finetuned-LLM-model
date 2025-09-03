@@ -12,6 +12,11 @@ The result is a lightweight but sharp model specialized in banter, humor, and sa
 - Training scripts and Jupyter notebook (`finetuning_llama2.ipynb`) included  
 - Easily extendable to new datasets and tones  
 
+## 📊 Dataset  
+This project uses the **humorchains-llama2-1k** dataset hosted on Hugging Face:  
+👉 [anuzb/humorchains-llama2-1k](https://huggingface.co/datasets/anuzb/humorchains-llama2-1k)
+
+
 ## 📂 Repository Structure  
 ├── dataset.ipynb # Data preparation & exploration
 ├── finetuning_llama2.ipynb # Fine-tuning pipeline for LLaMA 2
